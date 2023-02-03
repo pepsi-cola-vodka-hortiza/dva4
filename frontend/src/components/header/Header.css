@@ -1,0 +1,11 @@
+.header {
+    padding: 8px;
+    background-color: #007CC7;
+    display: flex;
+    justify-content: space-between;
+}
+
+.button_container {
+    display: flex;
+    align-items: center;
+}

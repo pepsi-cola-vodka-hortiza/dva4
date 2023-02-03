@@ -1,0 +1,16 @@
+.navigation_wrapper {
+    align-content: center;
+    display: flex;
+    width: 40%;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.navigation_link {
+    font-size: 20px;
+    color: #EEFBFB;
+}
+
+.navigation_link:hover {
+    color: #A5C3C3;
+}

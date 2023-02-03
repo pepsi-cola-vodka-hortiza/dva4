@@ -1,0 +1,8 @@
+.logo_wrapper {
+    display: flex;
+}
+.logo_text {
+    font-weight: bolder;
+    font-size: 28px;
+    color: #EEFBFB;
+}
